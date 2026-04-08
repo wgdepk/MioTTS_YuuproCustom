@@ -1,8 +1,8 @@
 {
   "name": "miotts-yuupro-custom",
   "version": "1.0.1",
-  "description": "MioTTS ゆうぷろカスタム v1.0.0",
-  "main": "MioTTS_YuuproCustom_v1_0_0.ipynb",
+  "description": "MioTTS ゆうぷろカスタム v1.0.1",
+  "main": "MioTTS_YuuproCustom.ipynb",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
